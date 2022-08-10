@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
 - 👀 I’m interested in frontend development, computer hardware, and tech
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Discord: tones#1111
 
